@@ -4,5 +4,6 @@ public class Employee {
 
     public void work() {
         // ....realizar tarea de trabajo
+        System.out.println("Doing work");
     }
 }

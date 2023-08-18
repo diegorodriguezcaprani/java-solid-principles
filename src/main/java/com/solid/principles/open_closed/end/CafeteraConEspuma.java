@@ -6,3 +6,4 @@ public class CafeteraConEspuma implements Cafetera {
         System.out.println("Preparando Cafe en CafeteraConEspuma");
     }
 }
+

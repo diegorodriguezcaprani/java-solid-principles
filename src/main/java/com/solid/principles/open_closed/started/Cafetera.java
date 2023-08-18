@@ -7,7 +7,7 @@ public class Cafetera {
         this.type = type;
     }
 
-    public void draw() {
+    public void prepararCafe() {
         switch (this.type) {
             case SIMPLE:
                 prepararCafeSimple();
